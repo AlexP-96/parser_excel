@@ -240,5 +240,4 @@ export const createWorkbook = (obj) => {
     });
 
     return workbook.Sheets[obj.list];
-
 };
